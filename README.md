@@ -14,6 +14,13 @@ Um projeto front-end  que busca fazer uma cópia da interface do netflix utiliza
     <td>
       <img src="https://i.imgur.com/lHPw1Iy.png" alt="Descrição da segunda imagem" width="400" height="200" />
     </td>
+    <td>
+      <img src="https://i.imgur.com/jHiQFKg.png" alt="Descrição da segunda imagem" width="400" height="200" />
+    </td>
+    <td>
+      <img src="https://i.imgur.com/POR4cfz.png" alt="Descrição da segunda imagem" width="400" height="200" />
+    </td>
+    
   </tr>
 </table>
 
