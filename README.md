@@ -9,6 +9,7 @@ Um projeto front-end  que busca fazer uma cópia da interface do netflix utiliza
 
 
 <img src="https://i.imgur.com/YiHIOvj.png" alt="Descrição da imagem" width="400" height="200" />
+<img src="https://i.imgur.com/lHPw1Iy.png" alt="Descrição da imagem" width="400" height="200" />
 
 
 também é possivel assistir o trailer das opções ao clicar em seu card.
