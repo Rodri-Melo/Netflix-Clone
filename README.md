@@ -4,7 +4,7 @@
 
 Um projeto front-end  que busca fazer uma cópia da interface do netflix utilizando React com o intuito de exercitar os estudos que eu tive nos ultimos meses, nele é possivel ver o catalogo variado por genero, em alta e um destaque no topo aleatório.
 
-<img src="https://https://i.imgur.com/uJxfREL.png" alt="Descrição da imagem" width="400" height="300" />
+<img src="https://i.imgur.com/uJxfREL.png" alt="Descrição da imagem" width="400" height="300" />
 
 
 também é possivel assistir o trailer das opções ao clicar em seu card.
